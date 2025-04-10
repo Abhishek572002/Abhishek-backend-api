@@ -88,8 +88,7 @@ Currency-converter-app/
   "amount": 10
 }
 
-![image](https://github.com/user-attachments/assets/8076ae44-67bf-4eae-b003-69ce6cca5d35)
+![image](https://github.com/user-attachments/assets/765c99e7-d227-4815-8731-e85a84df39bd)
 
-![image](https://github.com/user-attachments/assets/22aa9a84-a298-458d-aea8-e0b63b5f75e9)
 
 
