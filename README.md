@@ -1,6 +1,7 @@
 # 💱 Currency Converter App
 
-![image](https://github.com/user-attachments/assets/c0f6d8e6-0fd5-4fa6-999a-1f20b58a3b7b)
+![image](https://github.com/user-attachments/assets/e779af59-287b-4a14-8fb5-484fd1b511ec)
+
 
 
 A full-stack currency converter app using Node.js (Express) for backend and React for frontend. Fetches real-time exchange rates from CurrencyFreaks API.
